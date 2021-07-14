@@ -1,4 +1,4 @@
-# GarbageClassification
+# Recycler
 2021-1 Embedded Computing Project
 
 ## 주제 선정 동기
