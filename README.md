@@ -24,5 +24,5 @@
 터 비전 연구실의 서버를 통해 학습을 하였고, 이미지를 서버로 보내면 예측을 해서 다시 라
 즈베리파이로 결과를 보내주고, 그 결과를 통해 사용자에게 정보를 알려주도록 설계한다.
 
-## 결과
+## 동작영상
 [![Garbage Classification](https://i9.ytimg.com/vi/mfmoO8_FdRM/mqdefault.jpg?sqp=CNCpuocG&rs=AOn4CLCbCIdjpohuh-rPeXS1ZMcUmJ6EqQ)](https://www.youtube.com/watch?v=mfmoO8_FdRM&ab_channel=%ED%97%88%EC%A7%80%ED%98%84)
