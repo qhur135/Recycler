@@ -1,6 +1,8 @@
 # Recycler
 2021-1 Embedded Computing Project
 
+데이터셋 다운로드 : https://www.kaggle.com/asdasdasasdas/garbage-classification
+
 ## 주제 선정 동기
 현재 환경 문제가 심각하다는 것은 모두 알고 있을 것이다. 그 중 가장 심한 문제가 쓰레기
 문제라고 생각한다. 이 쓰레기 문제를 해결하려면 쓰레기의 재활용률을 높여야 한다고 생각한다. 
